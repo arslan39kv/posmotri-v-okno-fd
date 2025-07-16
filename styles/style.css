@@ -24,7 +24,6 @@ html {
   align-items: flex-end;
   gap: 30px;
   min-width: 1140px;
-  
 }
 
 .button {
@@ -53,10 +52,6 @@ html {
 .button:focus-visible {
   outline: 1px solid #fff;
   outline-offset: 1px;
-}
-
-.result {
-  
 }
 
 .result__video-container {
@@ -123,7 +118,6 @@ html {
 
 .search-form__textfield::placeholder {
   color: rgb(255 255 255 / 0.7);
-
 }
 
 .search-form__checkbox-list {
