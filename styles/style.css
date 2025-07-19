@@ -169,7 +169,7 @@ html {
 }
 
 .title {
-  font-family: Oswald;
+  font-family: Oswald, Arial, sans-serif;   /*спасибо что проверяете!*/
   font-weight: 700;
   font-size: 75px;
   font-style: Bold;
@@ -244,7 +244,7 @@ color: #545050;
 .content__video-card-title {
   margin-bottom: 6px;
   overflow: hidden;
-  font-family: Oswald;
+  font-family: Oswald, Arial, sans-serif;
   font-weight: 700;
   font-size: 30px;
   line-height: 100%;
